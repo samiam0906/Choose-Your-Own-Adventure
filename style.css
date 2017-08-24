@@ -1,0 +1,13 @@
+body {
+  background: url("images/new_york_city_image.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 100px 0;
+}
+
+h1 {
+  color: blue;
+  margin: 0 auto;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
